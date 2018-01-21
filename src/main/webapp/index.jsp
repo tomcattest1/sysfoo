@@ -52,7 +52,7 @@
 
 
 						<!-- About -->
-							<article id="About">
+							<article id="about">
 								<h2 class="major">Say Hi!!!</h2>
 								<span class="image main"><img src="images/nirosh_wa.jpg" alt="" /></span>
 								<p>Here it is... Puppet Master "Nirosh Waduge"</p>
