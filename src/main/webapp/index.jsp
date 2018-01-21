@@ -54,7 +54,7 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/IMG_5789.JPG" alt="" /></span>
+								<span class="image main"><img src="images/nirosh_wa.jpg" alt="" /></span>
 								<p>Here it is PSPS Puppet Master Nirosh Waduge</p>
 							</article>
 					</div>
