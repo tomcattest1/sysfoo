@@ -23,14 +23,14 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">Sysfoo</a></li>
+										<li><a  class="button special">Hello Suresh!!</a></li>
 									</ul>
 
 						</nav>
 							</div>
 						<div class="content">
 							<div class="inner">
-								<h1>version 0.0.2 </h1>
+								<h1>This is PSPS Puppet team Project </h1>
 								<h2>SYSTEM INFO</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">School of Devops</a></li>
+								<li><a href="#about">PSPS Puppet</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -54,8 +54,8 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/sodc_banner.jpg" alt="" /></span>
-								<p>School of Devops is a leading provider of devops trainings and offers variety of courses which focus on Infrastrucrture as a Code, Container and Docker, Continuous Delivery, Cloud. To learn more visit http://www.schoolofdevops.com.</p>
+								<span class="image main"><img src="images/IMG_5789.JPG" alt="" /></span>
+								<p>Here it is PSPS Puppet Master Nirosh Waduge</p>
 							</article>
 					</div>
 
