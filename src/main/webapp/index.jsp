@@ -23,7 +23,7 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">Hello Suresh!!</a></li>
+										<li><a  class="button special">Hello Suresh!!!</a></li>
 									</ul>
 
 						</nav>
@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">PSPS Puppet</a></li>
+								<li><a href="#about">Click Here to meet Puppet Master</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -52,10 +52,10 @@
 
 
 						<!-- About -->
-							<article id="about">
+							<article id="Meet The Puppet Master">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/nirosh_wa.jpg" alt="" /></span>
-								<p>Here it is PSPS Puppet Master Nirosh Waduge</p>
+								<p>Here it is... Puppet Master "Nirosh Waduge"</p>
 							</article>
 					</div>
 
