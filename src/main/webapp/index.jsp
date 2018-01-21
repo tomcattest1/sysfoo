@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">Click Here to meet Puppet Master</a></li>
+								<li><a href="#about">Click Here to meet the Puppet Master</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -52,8 +52,8 @@
 
 
 						<!-- About -->
-							<article id="Meet The Puppet Master">
-								<h2 class="major">About</h2>
+							<article id="About">
+								<h2 class="major">Say Hi!!!</h2>
 								<span class="image main"><img src="images/nirosh_wa.jpg" alt="" /></span>
 								<p>Here it is... Puppet Master "Nirosh Waduge"</p>
 							</article>
